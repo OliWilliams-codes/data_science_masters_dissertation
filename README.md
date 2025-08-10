@@ -8,7 +8,9 @@ It is designed for analysts, data scientists, and sports enthusiasts interested 
 Dependencies
 
 This project uses:
+
   pandas – Data manipulation
+  
   statsbombpy – Access to StatsBomb open data
 
 Statsbomb_Feature Engineering
