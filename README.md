@@ -6,6 +6,7 @@ This project explores the structure of StatsBomb open data and demonstrates the 
 It is designed for analysts, data scientists, and sports enthusiasts interested in understanding the raw data before applying advanced transformations.
 
 Dependencies
+
 This project uses:
   pandas – Data manipulation
   statsbombpy – Access to StatsBomb open data
