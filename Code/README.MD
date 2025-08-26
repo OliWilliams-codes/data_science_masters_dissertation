@@ -18,6 +18,7 @@ Foul analysis using Poisson regression, Poisson Point Process, KDEs, the thinnin
 
 
 Package requirements:
+
 pandas
 
 statsbombpy
