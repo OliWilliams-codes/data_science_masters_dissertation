@@ -1,5 +1,11 @@
 # data_science_masters_dissertation
-This covers my work for my Data Science Masters dissertation. Once the project has been completed all the analysis, paper and code will be made available.
+This covers my work for my Data Science Masters dissertation. The main paper is titled:
+
+**Oliver_Williams_Dissertation_Main_Paper.pdf**
+
+All the code and data files can be found in data_science_masters_dissertation/code
+
+**Addtional data introduction files:**
 
 **Statsbomb_DataExploration**
 
